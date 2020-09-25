@@ -66,7 +66,7 @@ Branch name pattern: `main`
 - [ ] Allow deletions
 
 ## Do work
-For this setup you require one or more review buddies.
+For this setup you require one or more review buddies, [How to invite collaborators](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository).
 
 You can use whatever programming language you would like for this task. If you crave an extra challenge then try to use a TDD approach to this. And if you want to you can also add a github action for your programming language of choosing. A good starting point would be the `Continuous integration workflows
 ` delivered by github.
