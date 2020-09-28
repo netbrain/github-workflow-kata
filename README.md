@@ -128,10 +128,12 @@ git add .
 # check status again
 git status  # should yield a correct list of changes to be comitted
 # commit changes
-git commit -m "initial project layout, resolves #1"
+git commit -m "initial project layout, resolves #1"  # see below for more info on this.
 # push changes to remote
 git push
 ```
+
+[What does  "resolves #1" to the commit message do?](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword)
 
 This should work fine, and if you read the returned output from the push command you should see something about creating a new PR. Click on that link and create the suggested pull request.
 
